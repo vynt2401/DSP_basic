@@ -16,7 +16,7 @@ Các thư viện Python sau đây là bắt buộc:
 
 1. **Sao chép kho lưu trữ** (nếu có):
    ```bash
-   git clone [<repository-url>](https://github.com/vynt2401/DSP_basic)
+   git clone https://github.com/vynt2401/DSP_basic
    ```
 
 2. **Tạo môi trường ảo** (khuyến nghị):
